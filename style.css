@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Fira Code;
+  display: flex;
+  justify-content: center;
+  max-width: 1120px;
+  height: 100vh;
+  margin: 30px auto;
+  background: rgb(0, 0, 0);
+}
+
+.container {
+  width: 100%;
+}
+
+.heading {
+  color: darkslategray;
+  font-weight: 500;
+}
+
+.email {
+  color: #292828;
+  font-size: medium;
+}
+
+.phone {
+  font-size: medium;
+  color: #292828;
+}
+
+.line {
+  font-weight: 400;
+  color: grey;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sub-heading {
+  color: aqua;
+  font-weight: 400;
+}
+
+.percentage {
+  color: brown;
+  font-weight: 400;
+}
+
+.year {
+  font-weight: 400;
+  color: cornflowerblue;
+}
+
+.languages {
+  color: cornflowerblue;
+  font-weight: 400;
+}
