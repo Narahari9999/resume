@@ -72,3 +72,19 @@ body {
 .py {
   color: rgb(135, 45, 139);
 }
+
+.html {
+  color: deepskyblue;
+}
+
+.css {
+  color: darkorchid;
+}
+
+.react {
+  color: aqua;
+}
+
+.bs {
+  color: rgb(231, 33, 148);
+}
