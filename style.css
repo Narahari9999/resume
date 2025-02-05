@@ -64,3 +64,11 @@ body {
   color: cornflowerblue;
   font-weight: 400;
 }
+
+.js {
+  color: yellow;
+}
+
+.py {
+  color: rgb(135, 45, 139);
+}
